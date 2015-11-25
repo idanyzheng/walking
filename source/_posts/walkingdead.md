@@ -1,4 +1,8 @@
 title: 行尸走肉
+tags: 
+- 测试
+- 测试2
+categories: 日志
 ---
 # 《行尸走肉》
 
