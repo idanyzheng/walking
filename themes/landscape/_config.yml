@@ -9,17 +9,17 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: left
+sidebar: right
 widgets:
 - category
 - tag
-- tagcloud
-- archive
-- recent_posts
+# - tagcloud
+# - archive
+# - recent_posts
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: /source/favicon.ico
 twitter:
 google_plus:
 fb_admins:
